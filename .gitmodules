@@ -1,3 +1,6 @@
 [submodule "HCI-AI-Planner"]
 	path = HCI-AI-Planner
 	url = https://github.com/pupungeggang2/HCI-AI-Planner
+[submodule "Image-To-Game-JS"]
+	path = Image-To-Game-JS
+	url = https://github.com/pupungeggang2/Image-To-Game-JS
